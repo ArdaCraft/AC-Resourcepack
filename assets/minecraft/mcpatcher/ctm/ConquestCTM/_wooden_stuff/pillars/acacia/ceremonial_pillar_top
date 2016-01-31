@@ -1,0 +1,4 @@
+matchTiles=ACBlocks:ceremonial_pillar
+faces=top bottom
+tiles=5
+method=fixed

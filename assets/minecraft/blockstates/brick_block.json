@@ -1,0 +1,14 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "normal": [
+            { "model": "brick", "weight": 100 },
+            { "model": "bricks_1", "weight": 100 },
+            { "model": "bricks_2", "weight": 100 },
+            { "model": "bricks_3", "weight": 100 },
+            { "model": "bricks_4", "weight": 10 },
+            { "model": "bricks_5", "weight": 10 },
+            { "model": "bricks_6", "weight": 100 }
+        ]
+    }
+}

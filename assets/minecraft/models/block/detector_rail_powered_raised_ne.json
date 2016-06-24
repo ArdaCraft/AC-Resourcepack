@@ -1,0 +1,7 @@
+{
+    "parent": "block/normal_rail_raised_ne_plank",
+    "textures": {
+        "plank": "blocks/rail_detector_powered",
+        "particle": "blocks/rail_detector"
+    }
+} 

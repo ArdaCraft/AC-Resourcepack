@@ -1,0 +1,49 @@
+{
+"__comment": "3D Mesh designed with BDcraft Cubik - Version PRO 0.65 Beta",
+"ambientocclusion": false,
+"inventoryRender3D": false,
+"textures": {
+    "down": "blocks/nether_brick",
+    "particle": "blocks/nether_brick"
+},
+"elements": [ 
+{
+    "from": [ 7, 12.5, 1.5 ],
+    "to": [ 8.5, 14.5, 14.5 ],
+    "faces": {
+        "down":  { "uv": [ 7, 1.5, 8.5, 14.5 ], "texture": "#down" },
+        "up":    { "uv": [ 7, 1.5, 8.5, 14.5 ], "texture": "#down" },
+        "north": { "uv": [ 8.5, 1.5, 7, 3.5 ], "texture": "#down" },
+        "south": { "uv": [ 7, 1.5, 8.5, 3.5 ], "texture": "#down" },
+        "west":  { "uv": [ 1.5, 1.5, 14.5, 3.5 ], "texture": "#down" },
+        "east":  { "uv": [ 14.5, 1.5, 1.5, 3.5 ], "texture": "#down" }
+    }
+},
+{
+    "from": [ 6, 0, 14 ],
+    "to": [ 10, 16, 16 ],
+    "__comment": "Posts*",
+    "faces": {
+        "down":  { "uv": [ 6, 14, 10, 16 ], "texture": "#down" },
+        "up":    { "uv": [ 6, 14, 10, 16 ], "texture": "#down" },
+        "north": { "uv": [ 10, 0, 6, 16 ], "texture": "#down" },
+        "south": { "uv": [ 6, 0, 10, 16 ], "texture": "#down" },
+        "west":  { "uv": [ 14, 0, 16, 16 ], "texture": "#down" },
+        "east":  { "uv": [ 16, 0, 14, 16 ], "texture": "#down" }
+    }
+},
+{
+    "from": [ 6, 0, 0 ],
+    "to": [ 10, 16, 2 ],
+    "__comment": "Posts",
+    "faces": {
+        "down":  { "uv": [ 6, 0, 10, 2 ], "texture": "#down" },
+        "up":    { "uv": [ 6, 0, 10, 2 ], "texture": "#down" },
+        "north": { "uv": [ 10, 0, 6, 16 ], "texture": "#down" },
+        "south": { "uv": [ 6, 0, 10, 16 ], "texture": "#down" },
+        "west":  { "uv": [ 0, 0, 2, 16 ], "texture": "#down" },
+        "east":  { "uv": [ 2, 0, 0, 16 ], "texture": "#down" }
+    }
+}
+]
+}

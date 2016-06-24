@@ -1,0 +1,22 @@
+{
+"__comment": "3D Mesh designed with BDcraft Cubik - Version PRO 0.65 Beta",
+"ambientocclusion": false,
+"textures": {
+    "particle": "blocks/dark_oak_fence",
+    "texture": "blocks/dark_oak_fence"
+},
+"elements": [ 
+{
+    "from": [ 6, 0, 6 ],
+    "to": [ 10, 16, 10 ],
+    "faces": {
+        "down":  { "uv": [ 2, 4, 6, 0 ], "texture": "#texture" },
+        "up":    { "uv": [ 2, 0, 6, 4 ], "texture": "#texture" },
+        "north": { "uv": [ 6, 0, 10, 16 ], "texture": "#texture" },
+        "south": { "uv": [ 6, 0, 10, 16 ], "texture": "#texture" },
+        "west":  { "uv": [ 6, 0, 10, 16 ], "texture": "#texture" },
+        "east":  { "uv": [ 6, 0, 10, 16 ], "texture": "#texture" }
+    }
+}
+]
+}

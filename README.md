@@ -1,2 +1,2 @@
 # Ardacraft-Resourcepack
-The resource pack used for the Ardacraft server
+The resource pack used for the ArdaCraft server
